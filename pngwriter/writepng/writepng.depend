@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683450217 source:c:\users\gajko\desktop\grk\pngcw\writepng.c
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<png.h>
+

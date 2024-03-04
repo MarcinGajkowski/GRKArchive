@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\gajko\desktop\grk\geometry\geometry\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684348158 source:c:\users\gajko\desktop\grk\geometry\geometry.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<jpeglib.h>
+	<argtable2.h>
+	<string.h>
+
